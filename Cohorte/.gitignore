@@ -1,0 +1,23 @@
+# Dependencias y builds
+node_modules/
+.next/
+dist/
+coverage/
+# Secretos: nunca se versionan
+.env
+.env.*
+!.env.example
+# Pruebas
+test-results/
+playwright-report/
+.playwright-mcp/
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl.bak
+# Claude Code (configuración personal)
+.claude/settings.local.json
+# Sistema
+.DS_Store
+Thumbs.db

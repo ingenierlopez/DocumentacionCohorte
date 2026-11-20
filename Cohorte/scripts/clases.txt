@@ -1,0 +1,6 @@
+02 clase-02-entorno-producto Tu entorno y tu producto
+03 clase-03-prd Tu PRD con IA
+04 clase-04-spec-arquitectura Especificación y arquitectura
+05 clase-05-taller-agentico Taller agéntico
+06 clase-06-construccion-calidad Construcción dirigida y calidad
+07 clase-07-despliegue Despliegue: de lo ligero a lo corporativo

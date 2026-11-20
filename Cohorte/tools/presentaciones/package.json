@@ -1,0 +1,12 @@
+{
+  "name": "presentaciones-cohorte",
+  "private": true,
+  "description": "Genera una presentación de PowerPoint por clase a partir de docs/clases/",
+  "scripts": {
+    "generar": "node generar.js"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "pptxgenjs": "^3.12.0"
+  }
+}
